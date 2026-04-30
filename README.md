@@ -8,9 +8,6 @@
 - Interested in Problem Solving, Software Develepment, and AI
 - Building a Competitive Programming Platform
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](linkedin.com/in/mohanned-issa)
-[![Codeforces](https://img.shields.io/badge/Codeforces-grey)](https://codeforces.com/profile/Mhossam22)
-
 ## 🛠 Languages and Tools
 
 <p>
@@ -50,8 +47,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mhossam2)
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: your-link
+- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohannad.hossam213@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](linkedin.com/in/mohanned-issa)
+- Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-grey)](https://codeforces.com/profile/Mhossam22)
 <!--
 **Mhossam2/Mhossam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
