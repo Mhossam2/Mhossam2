@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering student
+- 🎓 3rd year Computer Engineering student at Nile University
 - 💡 Interested in Problem Solving, Software Development, and AI
 - 🚀 Building a Competitive Programming Platform
 
