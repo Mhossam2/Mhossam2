@@ -48,8 +48,8 @@
 
 ## 📫 Contact
 - Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohannad.hossam213@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](linkedin.com/in/mohanned-issa)
-- Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-grey)](https://codeforces.com/profile/Mhossam22)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mohanned-issa)
+- Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)]([your-link](https://codeforces.com/profile/Mhossam22))
 <!--
 **Mhossam2/Mhossam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
