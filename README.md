@@ -22,9 +22,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd year Computer Engineering student at Nile University
-- 💡 Interested in Problem Solving, Software Development, and AI
-- 🚀 Building a Competitive Programming Platform
+- 🎓 3rd year Computer Engineering student at Nile University — **3.9/4.0 GPA**, Dean's Honor List
+- 🏆 Two-time ECPC Finals Qualifier (2024 & 2025) | Ranked 14th at DCS Cairo University GP out of 200+ teams
+- 💻 500+ problems solved on Codeforces | Pupil rated
+- 🔬 Building a hardware-software Smart Component Analyzer and an algorithmic maze platform (ThinkPath)
+- 🧑‍🏫 Junior Teaching Assistant at Nile University — teaching Data Structures & Algorithms
+- 🌱 Currently exploring Deep Learning and Full-Stack Development
+
 
 ## 🛠 Languages and Tools
 
