@@ -1,7 +1,25 @@
 # Hi 👋, I'm Mohanned Hossam
 ### A passionate computer engineering student
 
+## 📬 Contact
+
+<table>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:mohannad.hossam213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="linkedin.com/in/mohanned-issa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td>Codeforces</td>
+    <td><a href="https://codeforces.com/profile/Mhossam22"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a></td>
+  </tr>
+</table>
+
 ![](https://komarev.com/ghpvc/?username=Mhossam2&color=blue)
+
 
 ## 👨‍💻 About Me
 - Computer Engineering student
@@ -38,30 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mhossam2&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mhossam2&layout=compact&theme=dark)
-
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mhossam2)
 
-## 📬 Contact
-
-<table>
-  <tr>
-    <td>Email</td>
-    <td><a href="mailto:mohannad.hossam213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td>LinkedIn</td>
-    <td><a href="linkedin.com/in/mohanned-issa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
-  </tr>
-  <tr>
-    <td>Codeforces</td>
-    <td><a href="https://codeforces.com/profile/Mhossam22"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a></td>
-  </tr>
-</table>
 <!--
 **Mhossam2/Mhossam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
