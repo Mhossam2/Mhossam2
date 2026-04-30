@@ -46,10 +46,22 @@
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mhossam2)
 
-## 📫 Contact
-- Email: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohannad.hossam213@gmail.com)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mohanned-issa)
-- Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge)]([your-link](https://codeforces.com/profile/Mhossam22))
+## 📬 Contact
+
+<table>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:mohannad.hossam213@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="linkedin.com/in/mohanned-issa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></td>
+  </tr>
+  <tr>
+    <td>Codeforces</td>
+    <td><a href="https://codeforces.com/profile/Mhossam22"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a></td>
+  </tr>
+</table>
 <!--
 **Mhossam2/Mhossam2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
